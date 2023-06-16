@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: flex;
+    scroll-behavior: smooth;
+  
+  }
+body {
+    background-image: url("/img/arr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  .resultat-valeur {
+    font-weight: bold;
+    font-size: 20px;
+    color: #337ab7;
+    margin-top: 5px;
+    
+}
